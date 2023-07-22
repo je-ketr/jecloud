@@ -52,6 +52,10 @@ JECloud是基于微服务架构的低代码平台，是新一代企业级APaaS�
 - [下载安装版（支持单机安装，多机安装）](https://jecloud.net/experience)
 - [下载Docker-Compose版](https://jecloud.net/experience)
 
+## 版本管理
+
+- [更新日志](./CHANGELOG.md)
+- [版本升级包](./upgrade/README.md)
 ## 资源手册
 
 - [平台官网](http://jecloud.net)
