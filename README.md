@@ -75,39 +75,43 @@ AntDesign Vue3、Webpack 4、Gulp4、Lerna4、VxeTable、MxGraph、
 Sortablejs、Lodash
 
 ## 八、后端项目
-- [基础项目（Common）](https://gitee.com/ketr/jecloud-common.git)
-- [动态网关项目（GateWay）](https://gitee.com/ketr/jecloud-gateway.git)
-- [元数据项目（Meta）](https://gitee.com/ketr/jecloud-meta.git)
-- [RBAC项目（Rbac）](https://gitee.com/ketr/jecloud-rbac.git)
-- [工作流项目（WorkFlow）](https://gitee.com/ketr/jecloud-workflow.git)
-- [文档项目（Document）](https://gitee.com/ketr/jecloud-document.git)
-- [消息项目（Message）](https://gitee.com/ketr/jecloud-messasge.git)
-- [连接器项目（Connector）](https://gitee.com/ketr/jecloud-connector.git)
-- [案例项目（Demo）](https://gitee.com/ketr/jecloud-demo.git)
-- [骨架项目](https://gitee.com/ketr/jecloud-service-archetype.git)
+- [基础项目（jecloud-common）](https://gitee.com/ketr/jecloud-common.git)
+- [动态网关项目（jecloud-gateway）](https://gitee.com/ketr/jecloud-gateway.git)
+- [元数据项目（jecloud-meta）](https://gitee.com/ketr/jecloud-meta.git)
+- [RBAC项目（jecloud-rbac）](https://gitee.com/ketr/jecloud-rbac.git)
+- [工作流项目（jecloud-workflow）](https://gitee.com/ketr/jecloud-workflow.git)
+- [文档项目（jecloud-document）](https://gitee.com/ketr/jecloud-document.git)
+- [消息项目（jecloud-messasge）](https://gitee.com/ketr/jecloud-messasge.git)
+- [连接器项目（jecloud-connector）](https://gitee.com/ketr/jecloud-connector.git)
+- [案例项目（jecloud-demo）](https://gitee.com/ketr/jecloud-demo.git)
+- [骨架项目（jecloud-service-archetype）](https://gitee.com/ketr/jecloud-service-archetype.git)
 
 ## 九、前端项目
-- [主项目](https://gitee.com/ketr/jecloud-pc-admin.git)
-- [骨架项目](https://gitee.com/ketr/jecloud-pc-archetype.git)
-- [基础库项目](https://gitee.com/ketr/jecloud-pc-libs.git)
-- [资源表项目](https://gitee.com/ketr/jecloud-pc-table.git)
-- [应用中心项目](https://gitee.com/ketr/jecloud-pc-function.git)
-- [工作流项目](https://gitee.com/ketr/jecloud-pc-workflow.git)
-- [RBAC项目](https://gitee.com/ketr/jecloud-pc-rbac.git)
-- [菜单项目](https://gitee.com/ketr/jecloud-pc-menu.git)
-- [数据源项目](https://gitee.com/ketr/jecloud-pc-datasource.git)
-- [系统设置项目](https://gitee.com/ketr/jecloud-pc-settings.git)
-- [登录项目](https://gitee.com/ketr/jecloud-pc-login.git)
-- [系统展板项目](https://gitee.com/ketr/jecloud-pc-boards.git)
+- [主项目（jecloud-pc-admin）](https://gitee.com/ketr/jecloud-pc-admin.git)
+- [骨架项目（jecloud-pc-archetype）](https://gitee.com/ketr/jecloud-pc-archetype.git)
+- [基础库项目（jecloud-pc-libs）](https://gitee.com/ketr/jecloud-pc-libs.git)
+- [资源表项目（jecloud-pc-table）](https://gitee.com/ketr/jecloud-pc-table.git)
+- [应用中心项目（jecloud-pc-function）](https://gitee.com/ketr/jecloud-pc-function.git)
+- [工作流项目（jecloud-pc-workflow）](https://gitee.com/ketr/jecloud-pc-workflow.git)
+- [RBAC项目（jecloud-pc-rbac）](https://gitee.com/ketr/jecloud-pc-rbac.git)
+- [菜单项目（jecloud-pc-menu）](https://gitee.com/ketr/jecloud-pc-menu.git)
+- [数据源项目（jecloud-pc-datasource）](https://gitee.com/ketr/jecloud-pc-datasource.git)
+- [系统设置项目（jecloud-pc-settings）](https://gitee.com/ketr/jecloud-pc-settings.git)
+- [登录项目（jecloud-pc-login）](https://gitee.com/ketr/jecloud-pc-login.git)
+- [展板项目（jecloud-pc-boards）](https://gitee.com/ketr/jecloud-pc-boards.git)
 ## 十、中间件项目
-- [认证中间件](https://gitee.com/ketr/jecloud-auth.git)
-- [工作流中间件](https://gitee.com/ketr/jecloud-bpm.git)
-- [JEIbatis](https://gitee.com/ketr/je-ibatis.git)
-- [mxgraph封装](https://gitee.com/ketr/jecloud-mxgraph.git)
-## 十一、开源协议
+- [认证中间件（jecloud-auth）](https://gitee.com/ketr/jecloud-auth.git)
+- [工作流中间件（jecloud-bpm）](https://gitee.com/ketr/jecloud-bpm.git)
+- [JEIbatis（je-ibatis）](https://gitee.com/ketr/je-ibatis.git)
+- [mxgraph封装（jecloud-mxgraph）](https://gitee.com/ketr/jecloud-mxgraph.git)
+## 十一、项目关系图
+
+![项目关系图](docs/images/system/项目关系图.jpg)
+
+## 十二、开源协议
 - [MIT](./LICENSE)
 - [平台证书补充协议](./SUPPLEMENTAL_LICENSE.md)
-## 十二、付费服务
+## 十三、付费服务
 1、开源版（免费）
 
 2、私有证书（默认展示“技术支持：凯特伟业” ，可使用付费证书替换）
@@ -125,7 +129,7 @@ Sortablejs、Lodash
 - 平台功能定制开发（按需求内容报价）。
     
 4、增加套件（联系官方，了解更多）
-## 十三、联系我们
+## 十四、联系我们
 - 公  司：北京凯特伟业科技有限公司
 
 - 联系人：云凤程
@@ -133,7 +137,7 @@ Sortablejs、Lodash
 - 公众号：
 
 ![公众号](docs/images/orcode.png)
-## 十四、项目截图
+## 十五、项目截图
 1、微服务架构图
 
 ![微服务架构图](docs/images/system/01%20微服务架构图.png)
