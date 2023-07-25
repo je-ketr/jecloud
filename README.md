@@ -41,7 +41,7 @@ JECloud平台后端采用微服务架构，前端采用微应用架构，可做�
 ## 三、资源文档
 - [官方网站](http://jecloud.net)
 - [帮助文档](https://doc.jepaas.com/docs/je-doc-jecloud-help/je-doc-jecloud-help-1e2ka6h6mrfhi)
-- [视频教程](http://example.jecloud.net)
+- [视频教程](https://space.bilibili.com/519497352/channel/series)
 
 ## 四、版本信息
 - [更新日志](./CHANGELOG.md)
