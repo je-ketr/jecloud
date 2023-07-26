@@ -1,5 +1,11 @@
 
+
+# 说明
+## 1、JECloud 是由10个后端子项目、12个前端子项目、4个中间件项目构成。
+## 2、[下载源码请点击第八、第九、第十小节目录索引。](#eight)
+
 ![logo](docs/images/logo.png)
+
 # JECloud基于微服务架构的低代码平台（项目总入口目录）
 ## 一、项目简介
 
@@ -74,7 +80,7 @@ SpringMVC、Activiti 7、MyBatis
 AntDesign Vue3、Webpack 4、Gulp4、Lerna4、VxeTable、MxGraph、
 Sortablejs、Lodash
 
-## 八、后端项目
+## <span id = "eight">八、后端项目</span>
 - [基础项目（jecloud-common）](https://gitee.com/ketr/jecloud-common.git)
 - [动态网关项目（jecloud-gateway）](https://gitee.com/ketr/jecloud-gateway.git)
 - [元数据项目（jecloud-meta）](https://gitee.com/ketr/jecloud-meta.git)
