@@ -55,7 +55,7 @@ JECloud平台后端采用微服务架构，前端采用微应用架构，可做�
 - [版本升级包下载](./upgrade/README.md)
 
 ## 五、系统演示
-- [演示系统（每日12点、24点系统自动回复默认数据库状态）](http://example.jecloud.net)
+- [演示系统（每日12点、24点系统自动恢复默认数据库状态）](http://example.jecloud.net)
 - 用 户 名：admin
 - 密    码：123456
 
