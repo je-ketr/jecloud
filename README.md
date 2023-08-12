@@ -121,7 +121,7 @@ JECloud平台后端采用微服务架构，前端采用微应用架构，可做�
 # 五、技术选型
 
 <table width=100% align=center>
-<tbody width=100% >
+<tr><td colspan=4><img src='./docs/images/skill.png'/></td></tr>
 <tr><td width=30% ><b>开发语言</b></td><td  width=70% colspan=3>Java，JavaScript</td></tr>
 <tr><td><b>技术架构</b></td><td colspan=3>后端项目采用微服务架构，前端项目采用微前端架构</td></tr>
 <tr><td><b>数 据 库</b></td><td colspan=3>开源版仅支持MySQL</td></tr>
@@ -143,7 +143,6 @@ JECloud平台后端采用微服务架构，前端采用微应用架构，可做�
 <tr><td colspan=2>ORM: MyBatis、JEDB</td><td colspan=2>拖拽类库: Sortablejs </td></tr>
 <tr><td colspan=2>认证框架: Sa-Token,JECloud-Auth </td><td colspan=2>日期类库: Dayjs </td></tr>
 <tr><td colspan=2>项目构建工具: Maven </td><td colspan=2>工具类库: Lodash </td></tr>
-</tbody>
 </table>
 
 # 六、开源协议
