@@ -1,14 +1,12 @@
 
 <p align=center>
-<img src="./docs/images/banner.png"/>
+<a href="https://jecloud.net/experience" target="_blank"><img src="./docs/images/banner.png"/></a>
 </p>
 <p align=center>
 <a href="https://gitee.com/link?target=http%3A%2F%2Fjecloud.net" target="_blank">官方网站</a> &nbsp;  &nbsp;  &nbsp;
 <a href="https://doc.jepaas.com/docs/je-doc-jecloud-help/je-doc-jecloud-help-1e2ka6h6mrfhi" target="_blank"  >帮助文档</a>&nbsp;  &nbsp;  &nbsp;
  <a href="https://space.bilibili.com/519497352/channel/series" target="_blank"  >视频教程</a>&nbsp;  &nbsp;  &nbsp;
 <a href="./CHANGELOG.md" target="_blank"  >更新日志</a>&nbsp;  &nbsp;  &nbsp;
-<a href="./upgrade/README.md" target="_blank"  >升级历史</a>
-</p>
 
 # 一、项目简介
 
@@ -123,10 +121,10 @@ JECloud平台后端采用微服务架构，前端采用微应用架构，可做�
 # 五、技术选型
 
 <table width=100% align=center>
-<tr><td ><b>开发语言</b></td><td colspan=3>Java，JavaScript</td></tr>
+<tr><td width=30% ><b>开发语言</b></td><td  width=70% colspan=3>Java，JavaScript</td></tr>
 <tr><td><b>技术架构</b></td><td colspan=3>后端项目采用微服务架构，前端项目采用微前端架构</td></tr>
 <tr><td><b>数 据 库</b></td><td colspan=3>开源版仅支持MySQL</td></tr>
-<tr><td colspan=2  align=center ><b>后端项目</b></td><td colspan=2 align=center ><b>前端项目</b></td></tr>
+<tr><td width=50% colspan=2  align=center ><b>后端项目</b></td><td  width=50% colspan=2 align=center ><b>前端项目</b></td></tr>
 <tr><td colspan=2>注册中心: ServiceCenter</td><td colspan=2>核心框架: Vue3</td></tr>
 <tr><td colspan=2>微服务框架: ServiceComb</td><td colspan=2> 路由框架: VueRouter4</td></tr>
 <tr><td colspan=2>调用链追踪: SkyWalking </td><td colspan=2>状态管理框架: Pinia2 </td></tr>
@@ -153,7 +151,7 @@ JECloud平台后端采用微服务架构，前端采用微应用架构，可做�
 # 七、用户点赞
 
 <p align=center>
-<img src="./docs/images/client.png"/>
+<img src="./docs/images/client.jpg"/>
 </p>
 
 # 八、联系我们
