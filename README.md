@@ -32,8 +32,21 @@ JECloud平台后端采用微服务架构，前端采用微应用架构，可做�
 - [安装手册下载](https://doc.jepaas.com/docs/je-doc-jecloud-help/je-doc-jecloud-help-1eie6mb20uqei)
 
 > **项目部署如需协助请加微信：18610941078（请注明“JECloud安装协助”字样）**
+# 四、License文件替换
+JECloud License 文件存放目录说明如下（[公用jecloud.license下载](./resource/jecloud.license)）:
 
-# 四、源码下载
+1、安装版（仅支持Linux） 
+- linux 存放目录：`/root/license/`
+
+2、Docker-Compose版（支持Linux、Windows）
+- 安装包目录：`jecloud-docker-compose-v2.0.x/license/`
+
+3、源码版
+- linux 存放目录：`/root/license/`
+- windows 存放目录：当前用户的家目录，[参考windows家目录](https://blog.51cto.com/aiyc/5457000 "参考windows家目录")
+
+
+# 五、源码下载
 
 <table width=100% align=center>
 <tr>
@@ -118,7 +131,7 @@ JECloud平台后端采用微服务架构，前端采用微应用架构，可做�
 
 
 
-# 五、技术选型
+# 六、技术选型
 
 <table width=100% align=center>
 <tr><td colspan=4><img src='./docs/images/skill.png'/></td></tr>
@@ -145,23 +158,23 @@ JECloud平台后端采用微服务架构，前端采用微应用架构，可做�
 <tr><td colspan=2>项目构建工具: Maven </td><td colspan=2>工具类库: Lodash </td></tr>
 </table>
 
-# 六、开源协议
+# 七、开源协议
 - [MIT](./LICENSE)
 - [平台证书补充协议](./SUPPLEMENTAL_LICENSE.md)
 
-# 七、用户点赞
+# 八、用户点赞
 
 <p align=center>
 <img src="./docs/images/client.jpg"/>
 </p>
 
-# 八、联系我们
+# 九、联系我们
 
 <p align=center>
 <img src="./docs/images/family.jpg"/>
 </p>
 
-# 九、项目截图
+# 十、项目截图
 1、微服务架构图
 
 ![微服务架构图](docs/images/system/01%20微服务架构图.png)
