@@ -99,7 +99,7 @@ JECloud License 文件存放目录说明如下（[公用jecloud.license下载](.
   <td> 
     <ul>
       <li><a href="https://gitee.com/ketr/jecloud-document.git" target="_blank">文档项目（jecloud-document）</a></li>
-      <li><a href="https://gitee.com/ketr/jecloud-messasge.git" target="_blank">消息项目（jecloud-messasge）</a></li>
+      <li><a href="https://gitee.com/ketr/jecloud-message.git" target="_blank">消息项目（jecloud-message）</a></li>
       <li><a href="https://gitee.com/ketr/jecloud-connector.git" target="_blank">连接器项目（jecloud-connector）</a></li>
       <li><a href="https://gitee.com/ketr/jecloud-demo.git" target="_blank">案例项目（jecloud-demo）</a></li>
       <li><a href="https://gitee.com/ketr/jecloud-service-archetype.git" target="_blank">骨架项目（jecloud-service-archetype）</a></li>
