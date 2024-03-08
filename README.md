@@ -3,7 +3,7 @@
 <a href="https://jecloud.net/experience" target="_blank"><img src="./docs/images/banner.png"/></a>
 </p>
 <p align=center>
-<a href="https://gitee.com/link?target=http%3A%2F%2Fjecloud.net/" target="_blank">官方网站</a> &nbsp;  &nbsp;  &nbsp;
+<a href="https://jecloud.net" target="_blank">官方网站</a> &nbsp;  &nbsp;  &nbsp;
 <a href="https://doc.jepaas.com/docs/je-doc-jecloud-help/je-doc-jecloud-help-1e2ka6h6mrfhi" target="_blank"  >帮助文档</a>&nbsp;  &nbsp;  &nbsp;
  <a href="https://space.bilibili.com/519497352/channel/series" target="_blank"  >视频教程</a>&nbsp;  &nbsp;  &nbsp;
 <a href="./CHANGELOG.md" target="_blank"  >更新日志</a>&nbsp;  &nbsp;  &nbsp;
