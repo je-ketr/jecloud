@@ -43,7 +43,7 @@ JECloud License 文件存放目录说明如下（[公用jecloud.license下载](.
 
 3、源码版
 - linux 存放目录：`/root/license/`
-- windows 存放目录：当前用户的家目录，[参考windows家目录](https://blog.51cto.com/aiyc/5457000 "参考windows家目录")
+- windows 存放目录：当前用户的家目录下新建license文件夹，放入license文件，[参考windows家目录](https://blog.51cto.com/aiyc/5457000 "参考windows家目录")
 
 
 # 五、源码下载
