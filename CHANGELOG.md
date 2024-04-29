@@ -4,7 +4,7 @@
 ### ! 注意事项 !
 1. v3.0.0 重新调整了证书授权策略（[证书说明文档](https://doc.jepaas.com/docs/je-doc-jecloud-help/je-doc-jecloud-help-1fiisqhkipiii)），老客户升级前，请联系商务重新开证书。
 2. v3.0.0 重新调整了后端插件加载机制（[插件说明文档]()），老客户升级前，请联系商务重新获取新的插件。
-3. v3.0.0 开源证书已经更新，请在Gitee （[License文件替换](https://gitee.com/ketr/jecloud#%E5%9B%9Blicense%E6%96%87%E4%BB%B6%E6%9B%BF%E6%8D%A2)） 进行获取。
+3. v3.0.0 开源证书已经更新，请在Gitee （[License文件替换](https://doc.jepaas.com/docs/je-doc-jecloud-help/je-doc-jecloud-help-1fiitnnclco08)） 进行获取。
 4. v3.0.0 为大版本升级，请在升级前做好项目资源的备份工作，如有问题，请及时联系我们。
 
 
