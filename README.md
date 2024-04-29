@@ -33,7 +33,7 @@ JECloud平台后端采用微服务架构，前端采用微应用架构，可做�
 
 > **项目部署如需协助请加微信：18610941078（请注明“JECloud安装协助”字样）**
 # 四、License文件替换
-JECloud License 文件存放目录说明如下（[公用jecloud.license下载](./resource/jecloud.license)）:
+JECloud License 文件存放目录说明如下（[开源证书下载](./resource/license/北京凯特伟业科技有限公司【8089-3137-4344-8342】.zip)）:
 
 1、安装版（仅支持Linux） 
 - linux 存放目录：`/root/license/`
